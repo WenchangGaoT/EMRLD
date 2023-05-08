@@ -130,7 +130,7 @@ def main(
 		adapt_lr=0.1,
 		meta_lr=1.0,
 		adapt_steps = 2,
-		num_iterations=500,
+		num_iterations=200,
 		meta_bsz=24,
 		adapt_bsz=20,
 		tau=1.00,
